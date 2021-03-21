@@ -23,6 +23,4 @@ The following components are optional:
 - ```Array.Sort()``` - using an array sort to get the largest number
 
 ## License
-Copyright (c) MinusTwenty2. All rights reserved.
-
 Licensed under the [MIT License](./LICENSE).

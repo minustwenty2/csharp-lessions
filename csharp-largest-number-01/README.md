@@ -24,6 +24,4 @@ The code here is an example of using 'if' statements to determine the largest nu
 There is no 'error' handling or input checking/validation (this has not yet been taught). 
 
 ## License
-Copyright (c) MinusTwenty2. All rights reserved.
-
 Licensed under the [MIT License](./LICENSE).
