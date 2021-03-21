@@ -12,6 +12,12 @@ The lessons are using Visual Studio 2019 Community edition with .NET 5 as the fr
 
 Any other standard editor or IDE can also be used.
 
+## Order of the Lessons
+1. csharp-largest-number-01
+2. csharp-largest-number-02
+3. csharp-fizz-buzz
+4. csharp-menu-selection
+
 ## License
 Copyright (c) MinusTwenty2. All rights reserved.
 
