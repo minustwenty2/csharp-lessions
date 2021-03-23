@@ -15,13 +15,16 @@ Output the customer's selection as confirmation of order (only one selection to 
 
 Please enter your selection (number): 
 
-You selected "Potato salad" - thank you for your order.
+You selected "Potato salad" - have a great day.
 
 ### Components/Constructs
 Make use of the following constructs/language features:
 - ```Console.ReadLine()``` - gets input from the user
 - ```Console.WriteLine()``` - writes output to the console
 - ```switch``` - to determine selection
+
+### Optional Extra
+Use a switch expression instead of a standard switch statement to determine the selected menu option.
 
 ## License
 Licensed under the [MIT License](./LICENSE).
