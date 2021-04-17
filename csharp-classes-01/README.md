@@ -8,8 +8,6 @@ Create a ```Car``` class that contains the following properties:
 3. Colour (string)
 4. Price (decimal)
 
-Create a method inside the class that returns a string that contains all the information in narrative form, like:
-
 Instantiate three instances of the car class, set the properties of each instance individually and then write a formatted output of each car information to the console similar to:
 
 ```
@@ -22,7 +20,6 @@ The car is a red Ford Fiesta and costs $8000
 Make use of the following constructs/language features:
 - ```class``` - defines the class
 - Properties that uses  ```get; set;``` 
-- Method that outputs the formatted car details
 
 ### Optional Extras
 - Use a method inside the ```Car``` class to output the car information 
