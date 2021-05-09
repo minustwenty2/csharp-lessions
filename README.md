@@ -1,6 +1,6 @@
 # csharp-lessons
 
-The 'csharp-lessons' repository is a repository I use in a series of programming lessons for my son.  
+The 'csharp-lessons' repository is a repository I use in a series of programming lessons for my teenage son.  
 
 As new concepts are learned (taught) then a small project accompanies the lesson.  The code in this repo is an
 example of the end result.
@@ -17,6 +17,8 @@ Any other standard editor or IDE can also be used.
 2. csharp-largest-number-02
 3. csharp-fizz-buzz
 4. csharp-menu-selection
+5. csharp-classes-01
+6. csharp-classes-02
 
 ## License
 Copyright (c) MinusTwenty2. All rights reserved.
