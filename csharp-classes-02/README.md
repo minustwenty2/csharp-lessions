@@ -21,15 +21,17 @@ Create three classes - ```Animal```, ```Dog``` and ```Cat```
 Instantiate an instance of each class and write the output of the ```Greet``` method for each.
 
 ### Example Output
+```
 Hi, my name is Flash.
 Hi, my name is Buzz.  I am a dog. Woof, woof!!
 Hi, my name is Snowflake.  I am a cat.
+```
 
 ### Hints
-- HINT: you might need to consider using ```private``` for the `name` variable in the Animal class
-- HINT: you might need to consider using ```override``` in the Animal class
-- HINT: you might need to consider using ```virtual``` in the Animal class
-- HINT: you might need to consider using ```base.Greet()``` in the inherited class
+- you might need to consider using ```private``` for the `name` variable in the Animal class
+- you might need to consider using ```override``` in the Animal class
+- you might need to consider using ```virtual``` in the Animal class
+- you might need to consider using ```base.Greet()``` in the inherited class
 
 The "main" program might start with something like the following: 
  ```
@@ -38,7 +40,7 @@ Dog dog = new Dog("Buzz");
 Cat cat = new Cat("Snowflake");
 
 Console.WriteLine(animal.Greet());
-Console.Write(dog.Greet());
+Console.WriteLine(dog.Greet());
 Console.WriteLine(cat.Greet());
 ```
 
