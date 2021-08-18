@@ -1,4 +1,4 @@
-# csharp-exceptions-0`
+# csharp-exceptions-01
 The 'csharp-exceptions-01 is the first 'lesson' on exceptions in a series of programming lessons.   
 
 This lesson focuses on basic exception handling.

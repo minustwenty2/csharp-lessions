@@ -19,6 +19,7 @@ Any other standard editor or IDE can also be used.
 4. csharp-menu-selection
 5. csharp-classes-01
 6. csharp-classes-02
+7. csharp-exceptions-01
 
 ## License
 Copyright (c) MinusTwenty2. All rights reserved.
