@@ -47,3 +47,7 @@ artifacts/
 
 # Rider
 .idea/*
+
+# VS Cdoe
+.vs/
+.vscode/
